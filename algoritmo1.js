@@ -11,3 +11,4 @@ function calcularDistanciaRecorrida(velocidad, tiempo) {
   
   console.log('La distancia recorrida por el carro es: ' + distanciaRecorrida + ' km.');
   
+
